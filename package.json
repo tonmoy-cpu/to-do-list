@@ -26,7 +26,8 @@
     "react-redux": "^9.2.0",
     "redux": "^5.0.1",
     "redux-persist": "^6.0.0",
-    "uuid": "^11.1.0"
+    "uuid": "^11.1.0",
+    "vercel": "^41.4.0"
   },
   "devDependencies": {
     "@dicebear/avatars": "^4.10.8",
